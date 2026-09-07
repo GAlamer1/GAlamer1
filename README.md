@@ -1,10 +1,9 @@
-# ### Hi, I'm Ghala 👋
-
+# Hi, I'm Ghala 👋
 🎓 IT graduate 
 🌐 Working on: Cisco networking project
 💻 Learning: React, Blender
 🛡️ Interested in: ethical hacking & software development
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/ghala-a-9048a8397)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ghala-a-9048a8397)
 
 ---
 
