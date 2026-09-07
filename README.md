@@ -1,13 +1,15 @@
 # Hi, I'm Ghala 👋
-🎓 IT graduate 
-🌐 Working on: Cisco networking project
-💻 Learning: React, Blender
-🛡️ Interested in: ethical hacking & software development
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ghala-a-9048a8397)
+
+IT graduate with a background in networking and a growing focus on software development and cybersecurity.
+
+Currently working on a Cisco networking project — designing and configuring networks using Cisco Packet Tracer.
+
+I build and experiment with React and Blender, and I'm interested in ethical hacking and secure software development.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ghala-a-9048a8397)
 
 ---
 
-### 🧰 Tech Stack
 ![Cisco](https://img.shields.io/badge/-Cisco-black?style=flat-square&logo=cisco)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
