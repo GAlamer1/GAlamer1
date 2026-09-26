@@ -4,7 +4,6 @@ IT graduate with a background in networking and a growing focus on software deve
 
 Currently working on a Cisco networking project — designing and configuring networks using Cisco Packet Tracer.
 
-I build and experiment with React and Blender, and I'm interested in ethical hacking and secure software development.
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ghala-a-9048a8397)
 
