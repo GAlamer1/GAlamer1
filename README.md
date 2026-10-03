@@ -11,5 +11,4 @@ Currently working on a Cisco networking project — designing and configuring ne
 
 ![Cisco](https://img.shields.io/badge/-Cisco-black?style=flat-square&logo=cisco)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
